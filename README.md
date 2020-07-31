@@ -6,7 +6,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shubham Gupta and I'm a software engineer. I'm from Kanpur, living in Gurugram and currently working at Zomato. You can find me on following channels or simply by a quick Google search [![Google search][3.1]][0]
+My name is Shubham Gupta and I'm a software engineer. I'm from Kanpur, living in Gurugram and currently working at Zomato. You can find me on following channels or simply by a quick Google search [![Google search][3.1]](https://icons-for-free.com/iconfiles/png/128/google+google+2015+new+google+icon-1320190553028660072.png =25x)
 
 
  - [![Twitter][1.2]][1]
@@ -66,7 +66,7 @@ My name is Shubham Gupta and I'm a software engineer. I'm from Kanpur, living in
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[3.1]: https://w7.pngwing.com/pngs/882/225/png-transparent-google-logo-google-logo-google-search-icon-google-text-logo-business.png (google icon with padding)
+[3.1]: https://icons-for-free.com/iconfiles/png/128/google+google+2015+new+google+icon-1320190553028660072.png {: height="36px" width="36px"} (google icon with padding)
 
 <!-- icons without padding -->
 
