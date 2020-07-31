@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/y2k-shubham/y2k-shubham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=y2k-shubham&show_icons=true&line_height=45&count_private=true&theme=default_repocard" alt="y2k-shubham's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=y2k-shubham&show_icons=true&line_height=40&count_private=true&theme=default_repocard" alt="y2k-shubham's GitHub Stats" />
 </a>
 
 <a href="https://github.com/y2k-shubham/y2k-shubham">
