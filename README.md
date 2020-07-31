@@ -49,7 +49,7 @@
          <label style="{font-weight:bold}">Twitter</label>
         </td>
         <td >
-         <a href="https://twitter.com/y2k_shubham"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/twitter-logo-new_freelogovectors.net_.png" alt="drawing" width="18"/>/y2k-shubham</a>
+         <a href="https://twitter.com/y2k_shubham"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/twitter-logo-new_freelogovectors.net_.png" alt="drawing" width="18"/>/y2k_shubham</a>
         </td>
     </tr>
     <tr>
