@@ -66,7 +66,7 @@ My name is Shubham Gupta and I'm a software engineer. I'm from Kanpur, living in
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[3.1]: https://icons-for-free.com/iconfiles/png/128/google+google+2015+new+google+icon-1320190553028660072.png {: height="36px" width="36px"} (google icon with padding)
+[3.1]: https://icons-for-free.com/iconfiles/png/128/google+google+2015+new+google+icon-1320190553028660072.png (google icon with padding)
 
 <!-- icons without padding -->
 
