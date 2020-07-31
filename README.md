@@ -48,21 +48,21 @@
          <a href="https://twitter.com/y2k_shubham"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/twitter-logo-new_freelogovectors.net_.png" alt="drawing" width="18"/>/y2k-shubham</a>
         </td>
     </tr>
+    <tr>
+        <td >
+         <label style="{font-weight:bold}">Instagram</label>
+        </td>
+        <td >
+         <a href="https://www.instagram.com/y2k.shubham/" ><img src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" alt="drawing" width="18"/>/y2k.shubham</a>
+        </td>
+        <td >
+         <label style="{font-weight:bold}">Facebook</label>
+        </td>
+        <td >
+         <a href="https://www.facebook.com/y2k.shubham"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" alt="drawing" width="18"/>/y2k.shubham</a>
+        </td>
+    </tr>
 </table>
-
-<a href="https://www.linkedin.com/in/y2k-shubham/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="drawing" width="18"/>/y2k-shubham</a>
-
-<a href="https://twitter.com/y2k_shubham"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/twitter-logo-new_freelogovectors.net_.png" alt="drawing" width="18"/>/y2k_shubham</a>
-
-### Connect with me
-
-**LinkedIn**: [y2k-shubham](https://www.linkedin.com/in/y2k-shubham/)
-**Twitter**: [y2k_shubham](https://twitter.com/y2k_shubham)
-
-.
-
-**Instagram**: [y2k.shubham](https://www.instagram.com/y2k.shubham/)
-**Facebook**: [y2k.shubham](https://www.facebook.com/y2k.shubham)
 
 ---------------
 
