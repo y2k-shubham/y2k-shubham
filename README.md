@@ -34,7 +34,6 @@
          <a href="https://disqus.com/by/y2k_shubham/"><img src="https://cdn.iconscout.com/icon/free/png-512/disqus-722686.png" alt="drawing" width="18"/>/y2k-shubham</a>
         </td>
     </tr>
- 
     <tr>
         <td >
          <label style="{font-weight:bold}">LinkedIn</label>
