@@ -21,18 +21,14 @@
 
 ### Connect with me
 
- - **StackOverflow**: [y2k-shubham](https://stackoverflow.com/users/3679900/y2k-shubham?tab=profile)
- - **Disqus**: [y2k_shubham](https://about.me/y2k-shubham)
-
+**StackOverflow**: [y2k-shubham](https://stackoverflow.com/users/3679900/y2k-shubham?tab=profile)
+**Disqus**: [y2k_shubham](https://about.me/y2k-shubham)
 .
-
- - **LinkedIn**: [y2k-shubham](https://www.linkedin.com/in/y2k-shubham/)
- - **Twitter**: [y2k_shubham](https://twitter.com/y2k_shubham)
-
+**LinkedIn**: [y2k-shubham](https://www.linkedin.com/in/y2k-shubham/)
+**Twitter**: [y2k_shubham](https://twitter.com/y2k_shubham)
 .
-
- - **Instagram**: [y2k.shubham](https://www.instagram.com/y2k.shubham/)
- - **Facebook**: [y2k.shubham](https://www.facebook.com/y2k.shubham)
+**Instagram**: [y2k.shubham](https://www.instagram.com/y2k.shubham/)
+**Facebook**: [y2k.shubham](https://www.facebook.com/y2k.shubham)
 
 <!--
 **y2k-shubham/y2k-shubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
