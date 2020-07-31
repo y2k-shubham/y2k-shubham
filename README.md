@@ -6,7 +6,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shubham Gupta and I'm a software engineer. I'm from Kanpur, living in Gurugram and currently working at Zomato. You can find me on following channels or simply by a quick Google search <img src="https://icons-for-free.com/iconfiles/png/128/google+google+2015+new+google+icon-1320190553028660072.png" alt="drawing" width="24"/>
+My name is Shubham Gupta and I'm a software engineer. I'm from Kanpur, living in Gurugram and currently working at Zomato. You can find me on following channels or simply by a quick search  <a href="http://google.com/search?q=y2k-shubham"><img src="https://icons-for-free.com/iconfiles/png/128/google+google+2015+new+google+icon-1320190553028660072.png" alt="drawing" width="24"/>/y2k-shubham</a>
 
 
  - [![Twitter][1.2]][1]
