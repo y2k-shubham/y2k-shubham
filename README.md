@@ -6,10 +6,10 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shubham Gupta and I'm a software engineer. I'm from Kanpur, living in Gurugram and currently working at Zomato. You can find me on following channels or simply by a quick search  <a href="http://google.com/search?q=y2k-shubham"><img src="https://icons-for-free.com/iconfiles/png/128/google+google+2015+new+google+icon-1320190553028660072.png" alt="drawing" width="24"/>?q=y2k-shubham</a>
+My name is Shubham Gupta and I'm a software engineer. I'm from Kanpur, living in Gurugram and currently working at Zomato. You can find me on following channels or simply by a quick search  <a href="http://google.com/search?q=y2k-shubham"><img src="https://cdn4.iconfinder.com/data/icons/new-google-logo-2015/400/new-google-favicon-512.png" alt="drawing" width="18"/>?q=y2k-shubham</a>
 
 
- - [![Twitter][1.2]][1]
+ - <a href="https://stackoverflow.com/users/3679900/y2k-shubham?tab=profile"><img src="https://icons-for-free.com/iconfiles/png/128/google+google+2015+new+google+icon-1320190553028660072.png" alt="drawing" width="18"/>y2k-shubham</a>
  - [![LinkedIn][3.2]][3]
 
 
