@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/y2k-shubham/y2k-shubham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y2k-shubham&repo=notes&line_height=18&theme=default_repocard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y2k-shubham&repo=notes&line_height=24&theme=default_repocard" />
 </a>
 
 ---------------
