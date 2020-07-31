@@ -1,12 +1,20 @@
 ### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y2k-shubham&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/y2k-shubham/y2k-shubham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y2k-shubham&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=y2k-shubham&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="y2k-shubham's GitHub Stats" />
+<a href="https://github.com/y2k-shubham/y2k-shubham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=y2k-shubham&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="y2k-shubham's GitHub Stats" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y2k-shubham&repo=y2k-shubham/go.sdrie&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/y2k-shubham/y2k-shubham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y2k-shubham&repo=go.sdrie&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y2k-shubham&repo=noculture/notes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/y2k-shubham/y2k-shubham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y2k-shubham&repo=notes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ---------------
 
