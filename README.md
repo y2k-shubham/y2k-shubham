@@ -1,10 +1,6 @@
-<p align=center>
-  “Life’s battles don’t always go, To the strongest or fastest man;
-
-But sooner or later the man who wins, Is the man who thinks he can!”
-
-Napolean Hill, "Think and Grow Rich"
-</p>
+<p align=center> “Life’s battles don’t always go, To the strongest or fastest man;
+<p align=center> But sooner or later the man who wins, Is the man who thinks he can!”
+<p align=center> Napolean Hill, "Think and Grow Rich"
 
 <!--
 **y2k-shubham/y2k-shubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
