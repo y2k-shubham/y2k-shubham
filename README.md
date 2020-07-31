@@ -22,7 +22,7 @@
 <table cellspacing="0" cellpadding="0" style="{border: none;}">
     <tr>
         <td >
-         <p style="{font-weight:bold}">StackOverflow</p>
+         <label style="{font-weight:bold}">StackOverflow</label>
         </td>
         <td >
          <a href="https://stackoverflow.com/users/3679900/y2k-shubham?tab=profile" ><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" alt="drawing" width="18"/>/y2k-shubham</a>
@@ -34,13 +34,22 @@
          <a href="https://disqus.com/by/y2k_shubham/"><img src="https://cdn.iconscout.com/icon/free/png-512/disqus-722686.png" alt="drawing" width="18"/>/y2k-shubham</a>
         </td>
     </tr>
+ 
+    <tr>
+        <td >
+         <label style="{font-weight:bold}">LinkedIn</label>
+        </td>
+        <td >
+         <a href="https://www.linkedin.com/in/y2k-shubham/" ><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="drawing" width="18"/>/y2k-shubham</a>
+        </td>
+        <td >
+         <label style="{font-weight:bold}">Twitter</label>
+        </td>
+        <td >
+         <a href="https://twitter.com/y2k_shubham"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/twitter-logo-new_freelogovectors.net_.png" alt="drawing" width="18"/>/y2k-shubham</a>
+        </td>
+    </tr>
 </table>
-
-<label style="{font-weight:bold}">StackOverflow</label>
-<a href="https://stackoverflow.com/users/3679900/y2k-shubham?tab=profile" ><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" alt="drawing" width="18"/>/y2k-shubham</a>
-
-<a href="https://disqus.com/by/y2k_shubham/"><img src="https://cdn.iconscout.com/icon/free/png-512/disqus-722686.png" alt="drawing" width="18"/>/y2k-shubham</a>
-
 
 <a href="https://www.linkedin.com/in/y2k-shubham/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="drawing" width="18"/>/y2k-shubham</a>
 
