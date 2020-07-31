@@ -20,7 +20,7 @@
 
 <p align=center> “Life’s battles don’t always go, To the strongest or fastest man;
 <p align=center> But sooner or later the man who wins, Is the man who thinks he can!”
-<p align=center> Napolean Hill, "Think and Grow Rich"
+<p align=center> <a href="https://en.wikipedia.org/wiki/Napoleon_Hill">Napolean Hill</a>, <a href="https://en.wikipedia.org/wiki/Think_and_Grow_Rich">"Think and Grow Rich"</a>
 
 ---------------
 
