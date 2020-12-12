@@ -24,7 +24,7 @@
 
 ---------------
 
-### My Bio
+### Bio
 
  - Science Lover
  - Introvert
@@ -32,7 +32,7 @@
 
 ---------------
 
-### My Intro
+### Intro
 
   - My name is **Shubham Gupta** and I'm a software engineer
   - I'm from <a href="https://en.wikipedia.org/wiki/Kanpur"><img src="https://imgd.androidappsapk.co/EqJhZaimLW4reDnGb4LsKmjKudHCiSsi4FJShuniaoJLUH8obqNoPxnlqoKG4bIa2FI=s150" alt="drawing" width="30"/>Kanpur</a>, living in <a href="https://en.wikipedia.org/wiki/Gurgaon"><img src="https://img.indiefolio.com//filters:format(webp):fill(transparent)/project/thumb/9bc02712ab04031d9cb5510b25b760da.jpg" alt="drawing" width="30"/>Gurugram</a> and currently working at <a href="https://www.zomato.com/"><img src="https://cdn.iconscout.com/icon/free/png-512/zomato-1937646-1637644.png" alt="drawing" width="30"/>Zomato</a>
@@ -41,7 +41,7 @@
 
 ---------------
 
-### My presence
+### Presence
 
 <table cellspacing="0" cellpadding="0" style="{border: none;}">
     <tr>
@@ -93,13 +93,13 @@
 ### I'm enthusiastic about
 
  - Clean, well-documented code
- - Design patterns
  - Unit-testing
  - Functional Programming
+ - Design patterns
 
 ### I know / have worked-with
 
- - Languages: Python, PHP
+ - Languages: PHP, Python, Java, Scala
  - Orchestration: Apache-Airflow
  - Cloud: AWS EMR
  - BigData: Apache-Spark, Apache-Hive, Presto
