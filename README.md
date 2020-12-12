@@ -90,14 +90,14 @@
 
 ---------------
 
-### I'm enthusiastic about
+### Enthusiastic about
 
  - Clean, well-documented code
  - Unit-testing
  - Functional Programming
  - Design patterns
 
-### I know / have worked-with
+### Know / have worked-with
 
  - Languages: PHP, Python, Java, Scala
  - Orchestration: Apache-Airflow
@@ -106,7 +106,7 @@
  - Database: MySQL
  - Misc: SQL, Regex
 
-### I want to learn / work-with
+### Want to learn / work-with
 
  - Languages: Scala, GoLang, Rust
  - Tools: docker, Redis, Prometheus, Graffana
