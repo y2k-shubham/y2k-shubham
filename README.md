@@ -1,14 +1,14 @@
 ### GitHub Stats
 
-<a href="https://github.com/y2k-shubham/y2k-shubham">
+<a href="https://www.google.com/search?q=y2k-shubham">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y2k-shubham&count_private=true&theme=default_repocard" />
 </a>
 
-<a href="https://github.com/y2k-shubham/y2k-shubham">
+<a href="https://stackoverflow.com/users/3679900/y2k-shubham?tab=profile">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=y2k-shubham&show_icons=true&line_height=40&count_private=true&theme=default_repocard" alt="y2k-shubham's GitHub Stats" />
 </a>
 
-<a href="https://github.com/y2k-shubham/y2k-shubham">
+<a href="https://wakatime.com/@y2kshubham">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=y2kshubham&show_icons=true&line_height=40&count_private=true&theme=default_repocard" alt="y2k-shubham's GitHub Stats" />
 </a>
 
