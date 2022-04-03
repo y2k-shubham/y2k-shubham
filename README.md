@@ -41,7 +41,6 @@
   - My name is **Shubham Gupta** and I'm a software engineer
   - I'm from <a href="https://en.wikipedia.org/wiki/Kanpur"><img src="https://cdn.w600.comps.canstockphoto.com/kanpur-city-skyline-india-drawing_csp50164192.jpg" alt="drawing" width="30"/>Kanpur</a>, living in <a href="https://en.wikipedia.org/wiki/Bangalore"><img src="https://thumbs.dreamstime.com/b/bangalore-india-asia-icon-vector-art-design-skyline-flat-city-silhouette-editable-template-emblematic-elements-city-105208704.jpg" alt="drawing" width="30"/>Bengaluru</a> and currently working at <a href="https://amazon.com/"><img src="http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" alt="drawing" width="30"/>Amazon</a> (Ex-<a href="https://www.zomato.com/"><img src="https://cdn.iconscout.com/icon/free/png-512/zomato-1937646-1637644.png" alt="drawing" width="30"/>Zomato</a>)
   - You can find me on following channels or simply by a doing quick search  <a href="http://google.com/search?q=y2k-shubham"><img src="https://cdn4.iconfinder.com/data/icons/new-google-logo-2015/400/new-google-favicon-512.png" alt="drawing" width="18"/>?q=y2k-shubham</a> or heading over to <a href="https://about.me/y2k-shubham"><img src="https://about.me/s3/h/favicon/favicon_70.28088041.png" alt="drawing" width="18"/>/y2k-shubham</a>
-  - You can find my digital CV [here](https://stackoverflow.com/cv/y2k_shubham)
 
 ---------------
 
