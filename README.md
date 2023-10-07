@@ -66,13 +66,13 @@
          <label style="{font-weight:bold}">LinkedIn</label>
         </td>
         <td >
-         <a href="https://www.linkedin.com/in/y2k-shubham/" ><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="drawing" width="18"/>/y2k-shubham</a>
+         <a href="https://www.linkedin.com/in/y2k-shubham/" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="drawing" width="18"/>/y2k-shubham</a>
         </td>
         <td >
-         <label style="{font-weight:bold}">Twitter</label>
+         <label style="{font-weight:bold}">X</label>
         </td>
         <td >
-         <a href="https://twitter.com/y2k_shubham"><img src="https://image.flaticon.com/icons/png/32/124/124021.png" alt="drawing" width="18"/>/y2k_shubham</a>
+         <a href="https://twitter.com/y2k_shubham"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png" alt="drawing" width="18"/>/y2k_shubham</a>
         </td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@
          <label style="{font-weight:bold}">Instagram</label>
         </td>
         <td >
-         <a href="https://www.instagram.com/y2k.shubham/" ><img src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" alt="drawing" width="18"/>/y2k.shubham</a>
+         <a href="https://www.instagram.com/y2k.shubham/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="drawing" width="18"/>/y2k.shubham</a>
         </td>
         <td >
          <label style="{font-weight:bold}">Facebook</label>
